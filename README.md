@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Emmanuel </h1>
 
-<!--
-**Emmanuel-Greer/Emmanuel-Greer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📙 Certifications 📙</h2>
 
-Here are some ideas to get you started:
+- [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/177f583948ec4633b23adb189e9b9890)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💻 Help Desk Labs 💻</h2>
+
+- <b>Active Directory Lab </b>
+  - Currently In Progress
+
+<h2>📱 My LinkedIn 📱</h2>
+
+[<img align="left" alt="EmmanuelGreer | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/emmanuel-greer-05860b3b5/
